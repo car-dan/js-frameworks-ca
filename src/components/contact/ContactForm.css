@@ -1,0 +1,40 @@
+form {
+  padding: 1rem;
+  background: #e7e3e3;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  display: block;
+  margin-top: 1rem;
+  font-size: 1rem;
+  width: 250px;
+}
+
+button {
+  display: block;
+  margin-top: 1rem;
+  padding: 0.5rem;
+  border-radius: 10px;
+}
+
+span {
+  color: red;
+  font-size: 0.9rem;
+}
+
+select {
+  display: block;
+  margin-top: 1rem;
+  padding: 0.5rem;
+  border-radius: 10px;
+}
+
+textarea {
+  display: block;
+  margin-top: 1rem;
+  padding: 0.5rem;
+  border-radius: 10px;
+}
